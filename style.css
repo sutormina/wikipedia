@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: georgia;
+  font-size: 25px;
+  line-height: 1.5;
+}
+header {
+  background: url(http://img.rl0.ru/afisha/c1500x600/gorod.afisha.ru/uploads/images/b/bc/bbcb1c9fbf63458fbe4b22296ae67c97.jpg);
+}
+header h1 {
+  height: 500px;
+  line-height: 400px;
+  color: #00ff99;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 150px;
+  text-align: center;
+  text-shadow: 0 0 2px black;
+}
+section,
+aside {
+  width: 75%;
+  margin: 2em auto;
+}
